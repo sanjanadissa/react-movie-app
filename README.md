@@ -1,9 +1,9 @@
 # React + Vite
 
-this is a app that you can serach any movie in the world
+this is a app called ScreenScape that you can serach any movie in the world
 
-in home page currently most popular movies are shown 
+in home page it shows currently most popular movies under All Movies
 
-based on the users serach , trending movies are shown using APPWRITE 
+based on the users serach , trending movies are shown using APP-WRITE 
 
 chck oku the site - { https://sanjanadissa.github.io/react-movie-app/ }
