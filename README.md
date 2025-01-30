@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this is a app that you can serach any movie in the world
 
-Currently, two official plugins are available:
+in home page currently most popular movies are shown 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+based on the users serach , trending movies are shown using APPWRITE 
+
+chck oku the site - {https://sanjanadissa.github.io/react-movie-app/}
