@@ -6,4 +6,4 @@ in home page currently most popular movies are shown
 
 based on the users serach , trending movies are shown using APPWRITE 
 
-chck oku the site - {https://sanjanadissa.github.io/react-movie-app/}
+chck oku the site - { https://sanjanadissa.github.io/react-movie-app/ }
